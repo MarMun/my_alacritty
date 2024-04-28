@@ -1,3 +1,4 @@
+# See for more themes: https://github.com/alacritty/alacritty-theme
 import = [
   # "~/.config/alacritty/catppuccin-latte.toml"
   # "~/.config/alacritty/catppuccin-mocha.toml",
